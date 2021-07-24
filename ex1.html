@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício 1</title>
+    <style>
+        body {
+            background-color:rgb(82, 102, 138);
+            color: whitesmoke;
+            font: normal 20pt Arial;
+        }
+        h1 {
+            color:rgb(228, 184, 89)
+        }
+    </style>
+</head>
+<body>
+    <h1>Exercício 1:</h1>
+    <p>Criar uma função que recebe nome e sobrenome, e retorna ambos concatenados.</p>
+    <button onclick="concatName()">Clique aqui</button>
+    <script>
+        function concatName(){
+            var nome = window.prompt('Qual é o seu nome?')
+            var sobrenome = window.prompt('E qual é o seu Sobrenome ?')
+            var resultado;
+            resultado = "É um prazer te conhecer " + nome + " " + sobrenome + " !";
+            //resultado =  window.alert('É um prazer te conhecer, ' + nome + ' ' + sobrenome + '!')
+            document.getElementById("demo").innerHTML=resultado;
+        }
+        //concatName();
+    </script>
+    <p id="demo"></p>
+</body>
+</html>
+
+
