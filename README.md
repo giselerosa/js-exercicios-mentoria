@@ -19,26 +19,26 @@
             <tr>
                 <td align="center">1</td>
                 <td>Criar uma função que recebe nome e sobrenome, e retorna ambos concatenados.</td>
-                <td><a href="">Código</a>
-                <a href="">Versão HTML</a></td>
+                <td><a href="https://github.com/giselerosa/js-exercicios-mentoria/blob/main/ex1.js">Código</a>
+                <a href="https://github.com/giselerosa/js-exercicios-mentoria/blob/main/ex1.html">Versão HTML</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">2</td>
                 <td>Criar uma função similar a função do exercício 1, porém que receba um terceiro argumento que determina se o retorno será no formato 'Nome Sobrenome" ou "Sobrenome, Nome".</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/giselerosa/js-exercicios-mentoria/blob/main/ex2.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">3</td>
                 <td>Criar uma função que recebe um número e retorna se o número é par ou ímpar, e se é positivo, zero ou negativo.</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/giselerosa/js-exercicios-mentoria/blob/main/ex3.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td align="center">4</td>
                 <td>Resolver o problema FizzBuzz em JavaScript (https://en.wikipedia.org/wiki/Fizz_buzz)</td>
-                <td><a href="">Código</a></td>
+                <td><a href="https://github.com/giselerosa/js-exercicios-mentoria/blob/main/ex4.js">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
         </table>
